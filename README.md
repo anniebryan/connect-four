@@ -9,7 +9,7 @@ Install Pygame
 ```
 $ pip install pygame
 ```
-Download connect4.py
+Download connect4.py <br>
 Run connect4.py
 ```
 $ python3 connect4.py
